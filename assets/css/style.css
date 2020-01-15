@@ -1,18 +1,23 @@
-.body {
-   background-image: url('../img/light-grey-terrazzo.png');
+body {
+   background-image: url('../../assets/img/light-grey-terrazzo.png');
 }
 .jumbotron{
+   color: #162a50; 
    height:225px;
    padding-top:25px;
    padding-bottom: 25px; 
+   /*background-image: url('../../assets/img/nature-q-g-640-480-2.jpg');*/
+   background-image: linear-gradient(to right, #d7e1f4 , #386ac7);
 }
 .card{
-   height:275px; 
+   height:250px; 
+   background-color:#ebf0f9; 
 }
 .btn{
    display: inline;
    margin-bottom: 15px;
    width:140px;
+   background-color: rgb(31, 58, 109);
 }
 #linkCard {
    /*width:500px;*/
