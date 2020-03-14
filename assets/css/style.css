@@ -5,12 +5,14 @@ body {
    color: #162a50; 
    height:235px;
    padding-top:25px;
-   padding-bottom: 25px; 
+   padding-bottom: 15px; 
+   margin-bottom: 5px; 
    /*background-image: url('../../assets/img/nature-q-g-640-480-2.jpg');*/
    background-image: linear-gradient(to right, #d7e1f4 , #386ac7);
 }
 .card{
-   margin-top:5px; 
+   margin-top:15px; 
+   padding-bottom: 15px; 
    height:250px; 
    background-color:#ebf0f9; 
 }
@@ -22,6 +24,6 @@ body {
 }
 #linkCard {
    /*width:500px;*/
-   margin-top: 50px; 
+   margin-top: 15px; 
    height: 130px; 
 }
